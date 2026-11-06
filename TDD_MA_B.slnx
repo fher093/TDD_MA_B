@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ClienteWindow/ClienteWindow.csproj" Id="e746b63c-85eb-4c2a-8846-78fee6363483" />
+  <Project Path="Ejemplo1Test/PruebasMAB.csproj" Id="9a5133dc-53a6-4eaa-9f1f-aaebc18ec761" />
+  <Project Path="LogicaNegocios/LogicaNegocios.csproj" Id="2f82b5ef-62b9-43a3-9b15-658e10001927" />
+</Solution>
